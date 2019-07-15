@@ -1,4 +1,4 @@
-use super::schema::books;
+/*use super::schema::books;
 use serde::Serialize;
 
 #[derive(Queryable, Serialize)]
@@ -16,4 +16,4 @@ pub struct NewBook<'a> {
     pub title: &'a str,
     pub mime_type: &'a str,
     pub content: &'a Vec<u8>,
-}
+}*/
